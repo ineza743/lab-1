@@ -32,7 +32,12 @@ ul li a {
     animation: background-color 0.3s ease;
 }
 
+ul li a:hover {
 
-ul li a:active {
-    background-color:whitesmoke;
+    color:blue;
+
+}
+
+ul li highlighted {
+    background-color:wheat;
 }
