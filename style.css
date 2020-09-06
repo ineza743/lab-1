@@ -38,5 +38,5 @@ ul li a:hover {
 }
 
 ul li a:active {
-    background-color: brown;
+    color: blue;
 }
