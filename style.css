@@ -38,6 +38,6 @@ ul li a:hover {
 
 }
 
-ul li highlighted {
+.nav .highlighted{
     background-color:rgb(255, 174, 11);
 }
