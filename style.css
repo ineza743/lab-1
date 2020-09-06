@@ -28,11 +28,11 @@ ul li a {
     font-family: 'Times New Roman', Times, serif;
     color: black;
     padding: 0 20px;
-    text-align: center;
-    
+    text-align: centre;
+    animation: background-color 0.3s ease;
 }
 
 
 ul li a:active {
-    background-color:brown;
+    background-color:blue;
 }
