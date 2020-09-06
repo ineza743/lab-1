@@ -6,6 +6,9 @@ This file is the template for the first lab in Ashesi Web Development 2020.
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
 
+## Link to the published website
+https://ineza743.github.io/lab-1/
+
 ## Using the file
 There are six pages on this website.<br>
 1 home page which contains the biography and the picture of Afsanat Ineza<br>
