@@ -31,11 +31,7 @@ ul li a {
     
 }
 
-ul li a:hover {
 
-    color:blue;
-
-}
 
 ul li a:active {
     background-color:brown;
