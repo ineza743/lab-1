@@ -7,7 +7,7 @@ This file is the template for the first lab in Ashesi Web Development 2020.
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
 
 ## Using the file
-There are six pages on this website.
+There are six pages on this website.<br>
 1 home page which contains the biography and the picture of Afsanat Ineza<br>
 2 skills page that lists all her skills <br>
 3 Cs coursework page that lists all the Cs courses she has taken. and each brings you to the description page of her school's website<br>
