@@ -28,9 +28,9 @@ ul li a {
     font-family: 'Times New Roman', Times, serif;
     color: black;
     padding: 0 20px;
+    text-align: center;
     
 }
-
 
 
 ul li a:active {
