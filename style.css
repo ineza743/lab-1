@@ -2,9 +2,14 @@
 ul li {
 
     list-style: none;
-  
+    display: inline-block;
+    line-height: 100px; 
 
 }
 
+ul li a {
 
+    text-decoration: none;
+    
+}
 
